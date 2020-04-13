@@ -28,7 +28,7 @@ It is better to run the Notebook on Colab Pro with GPU and High-RAM.
 
 ## Contents
 * README.md: This file, explaining the project
-* [Final_project_presentation_v6.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/Final_project_presentation_v6.pdf): Project presentation in Power Point format
+* [Final_project_presentation_v6.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/Final_project_presentation_v6.pdf): Project presentation in PDF format
 * [Final_project_presentation_v6.pptx](https://github.com/ravasconcelos/flowers_dcgan/blob/master/Final_project_presentation_v6.pptx?raw=true): Project presentation in Power Point format
 * [GeneratedFlowers.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf): Some samples of generated flowers for each model 
 * only_flowers.zip: Daisies from Flowers Recognition Kaggle Dataset
