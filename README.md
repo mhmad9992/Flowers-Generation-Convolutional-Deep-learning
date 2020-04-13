@@ -22,6 +22,7 @@ Possible Applications:
 ## How to run
 
 ### Colab Jupyter Notebook
+It is better to run the Notebook on Colab Pro with GPU and High-RAM.
 1. Open
 1. Run all Cells
 
@@ -39,23 +40,14 @@ Possible Applications:
 * dcgan_flowers_6.ipynb: Model 4, but with the first Convolutional layer using 2,2 stride. 
 
 ## Generated images
-Model 6
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model6/6000_epochs/download.png)
 
-Model 5
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model5/5000_epochs/index3.png)
+| ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model1/5000_epochs/download%20(3).png) | ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model2/2000_epochs/download%20(3).png) |  ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model3/2000_epochs/download.png) |
+|:--:|:--:|:--:|
+| *Model 1* | *Model 2* | *Model 3* |
 
-Model 4
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model4/1000_epochs/download%20(10).png)
-
-Model 3
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model3/2000_epochs/download.png)
-
-Model 2
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model2/2000_epochs/download%20(3).png)
-
-Model 1
-![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model1/5000_epochs/download%20(3).png)
+| ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model4/1000_epochs/download%20(10).png) | ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model5/5000_epochs/index3.png) |  ![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model6/6000_epochs/download.png) |
+|:--:|:--:|:--:|
+| *Model 4* | *Model 5* | *Model 6* |
 
 More generated flowers separated by Model and epoch:
 https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf
