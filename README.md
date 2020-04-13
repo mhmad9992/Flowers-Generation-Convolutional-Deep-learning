@@ -28,8 +28,8 @@ It is better to run the Notebook on Colab Pro with GPU and High-RAM.
 
 ## Contents
 * README.md: This file, explaining the project
-* Final_project_presentation_v6.pptx: Project presentation in Power Point format
-* GeneratedFlowers.pdf: Some samples of generated flowers for each model 
+* [Final_project_presentation_v6.pptx](https://github.com/ravasconcelos/flowers_dcgan/blob/master/Final_project_presentation_v6.pptx?raw=true): Project presentation in Power Point format
+* [GeneratedFlowers.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf): Some samples of generated flowers for each model 
 * only_flowers.zip: Daisies from Flowers Recognition Kaggle Dataset
 * dcgan_flowers_1.ipynb: Model inspired on Greg Surma' Drawing Cartoons with Generative Adversarial Networks, but with more layers
 * dcgan_flowers_2.ipynb: Model inspired on Tensorflow DCGAN Tutorial
@@ -50,7 +50,7 @@ It is better to run the Notebook on Colab Pro with GPU and High-RAM.
 | *Model 4* | *Model 5* | *Model 6* |
 
 More generated flowers separated by Model and epoch:
-https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf
+[GeneratedFlowers.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf)
 
 ## Model Evolution
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uTfwXIWl40/0.jpg)](https://www.youtube.com/watch?v=0uTfwXIWl40)
