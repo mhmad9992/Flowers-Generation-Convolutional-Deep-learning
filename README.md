@@ -10,9 +10,9 @@ Group: Ankur Tyagi, Haitham Alamri, Rodolfo de Andrade Vasconcelos
 Professor: Sina Jamshidi
 
 ## Business Problem
-Possible Applications :
-Generate artwork
-Image Synthesis
+Possible Applications:
+* Generate artwork
+* Image Synthesis
 
 ## Prerequisites
 * Python 3.7
@@ -31,6 +31,34 @@ Image Synthesis
 * GeneratedFlowers.pdf: Some samples of generated flowers for each model 
 * only_flowers.zip: Daisies from Flowers Recognition Kaggle Dataset
 * dcgan_flowers_1.ipynb: Model inspired on Greg Surma' Drawing Cartoons with Generative Adversarial Networks, but with more layers
+* dcgan_flowers_2.ipynb: Model inspired on Tensorflow DCGAN Tutorial
+* dcgan_flowers_3.ipynb: Model 1, but with 1000 elements noise array
+* dcgan_flowers_4.ipynb: Model 2, but with some hyperparemters from the Paper "Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks" [4] 
+* dcgan_flowers_4_BlackWhite.ipynb: Model 4, but the input images are in Black and White 
+* dcgan_flowers_5.ipynb: Model inspired on the Paper "Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks" [4] 
+* dcgan_flowers_6.ipynb: Model 4, but with the first Convolutional layer using 2,2 stride. 
+
+## Generated images
+Model 6
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model6/6000_epochs/download.png)
+
+Model 5
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model5/5000_epochs/index3.png)
+
+Model 4
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model4/1000_epochs/download%20(10).png)
+
+Model 3
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model3/2000_epochs/download.png)
+
+Model 2
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model2/2000_epochs/download%20(3).png)
+
+Model 1
+![Images during training](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model1/5000_epochs/download%20(3).png)
+
+More generated flowers separated by Model and epoch:
+https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf
 
 ## Model Evolution
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uTfwXIWl40/0.jpg)](https://www.youtube.com/watch?v=0uTfwXIWl40)
