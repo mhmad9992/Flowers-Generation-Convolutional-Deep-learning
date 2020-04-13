@@ -54,7 +54,10 @@ More generated flowers separated by Model and epoch:
 [GeneratedFlowers.pdf](https://github.com/ravasconcelos/flowers_dcgan/blob/master/GeneratedFlowers.pdf)
 
 ## Model Evolution
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uTfwXIWl40/0.jpg)](https://www.youtube.com/watch?v=0uTfwXIWl40)
+[![](https://img.youtube.com/vi/0uTfwXIWl40/0.jpg)](https://www.youtube.com/watch?v=0uTfwXIWl40)
+
+## Generator/Discriminator Loss example
+[![](https://github.com/ravasconcelos/flowers_dcgan/blob/master/generated_images/model6/6000_epochs/download%20(1).png)
 
 ## References
 1. https://www.kaggle.com/alxmamaev/flowers-recognition
