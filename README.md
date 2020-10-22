@@ -1,13 +1,6 @@
 # Flower Image Synthesis – DCGAN Network
 Flower generation using Deep Convolutional Generative Adversarial Network
 
-University of Toronto School of Continuing Studies
-
-Term project for Deep Learning course
-
-Group: Ankur Tyagi, Haitham Alamri, Rodolfo de Andrade Vasconcelos
-
-Professor: Sina Jamshidi
 
 ## Business Problem
 Possible Applications:
